@@ -1,4 +1,4 @@
-![MasterHead](banner.png)
+![MasterHead](banner1.png)
 <h1 align="center">Hi 👋, I'm Akshat Garg</h1>
 <h3 align="center">I Develop what you think 🤔</h3>
 
